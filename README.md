@@ -7,8 +7,8 @@ He has already spoke at 40+ conferences (like JJUG Tokyo, JCON Germany, Lean Kan
 ## Personal Publications
 * Writer of [Java ve Yazılım Tasarımı](http://www.papatya.gen.tr/java_ve_java_teknolojileri.htm) ![turkish](https://raw.githubusercontent.com/lemiorhan/lemiorhan/master/turkish.png)
 * Writer of [Kanban ile Çeviklik](https://leanpub.com/kanbanceviklik) ![turkish](https://raw.githubusercontent.com/lemiorhan/lemiorhan/master/turkish.png)
-* Social Media: [Twitter](https://twitter.com/altugaltintas), , [Linkedin](https://www.linkedin.com/in/altuga)
-* Written Content: [Medium](https://medium.com/@altuga), 
+* Social Media: [Twitter](https://twitter.com/altugaltintas), [Linkedin](https://www.linkedin.com/in/altuga)
+* Written Content: [Medium](https://medium.com/@altuga) 
 
 ## Podcasts
 
