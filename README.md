@@ -2,7 +2,7 @@
 
 [Altuğ Bilgin Altıntaş](https://www.linkedin.com/in/altuga/) is a Business Agility Engineer based on Istanbul/Türkiye. He is the co-founder of [JUG Istanbul](https://jugistanbul.org/) and co-organizer of [Java Day Istanbul](https://www.javaday.istanbul/). He previously worked at Koç.net, Hakia, and Toyota Motor Europe at various technical leadership and coaching roles. He has been actively programming with Java since 1999. He is a active practitioner and coach in Kanban, Lean software development, GTD and Toyota Kata as problem solving approach.
 
-He has already spoke at 40+ conferences (like JJUG Tokyo, JCON Germany, Lean Kanban France, Java Day Istanbul, and many others) organized 100+ meetups, 
+He has already spoke at 40+ conferences (like JavaZone, JavaCro, JavaLand, JJUG Tokyo, JCON Germany, Lean Kanban France, Java Day Istanbul, and many others) organized 100+ meetups, 
 
 ## Personal Publications
 * Writer of [Java ve Yazılım Tasarımı](http://www.papatya.gen.tr/java_ve_java_teknolojileri.htm) ![turkish](https://raw.githubusercontent.com/lemiorhan/lemiorhan/master/turkish.png)
